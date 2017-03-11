@@ -1,0 +1,37 @@
+header {
+    background-image: url("3.JPG");
+    background-repeat: no-repeat;
+    padding-bottom: 700px;
+    background-size:cover;
+}
+
+nav {
+  margin: 0;
+  padding: 15px;
+  font-weight: bold;
+  font-size: 1.3em;
+}
+
+top {
+    text-align: left;
+    margin: 0;
+    font-size: 1.3em
+}
+
+.container {
+    max-width: 900px;
+    padding: 0;
+}
+
+h3 {
+    color: #999;
+    font-size: 2.5em;
+    padding-left: 160px
+}
+
+footer {
+    text-align: center;
+    color: #fff;
+    background-color: #999;
+    padding: 20px
+}
