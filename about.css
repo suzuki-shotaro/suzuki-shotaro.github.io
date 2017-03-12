@@ -33,6 +33,16 @@ h3 {
    font-size: 1.4em;
 }
 
+.mycentering2 {
+   text-align: center;
+   font-size: 1.4em;
+}
+
+img {
+    width: 250px ;
+}
+
+
 footer {
     text-align: center;
     color: #fff;
